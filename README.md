@@ -173,6 +173,9 @@ Versioning
 
 History
 -------
+2.3.2.1
+- Support asset-pipeline
+
 2.3.2
 - Upgraded to Bootstrap 2.3.2
 
