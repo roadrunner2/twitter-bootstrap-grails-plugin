@@ -14,6 +14,7 @@ grails.project.dependency.resolution = {
         grailsHome()
         grailsCentral()
         mavenCentral()
+        mavenRepo "http://repo.grails.org/grails/plugins/"
     }
     plugins {
         build(":release:2.2.1") { export = false }
